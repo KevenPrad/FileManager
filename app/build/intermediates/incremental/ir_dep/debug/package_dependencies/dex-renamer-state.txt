@@ -1,0 +1,4 @@
+#Tue Jun 18 15:11:25 CEST 2019
+base.0=/home/asus/AndroidStudioProjects/FileConverter/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
